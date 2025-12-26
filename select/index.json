@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "それまでの猶予",
+  "base_artist": "乃木坂46",
+  "createdAt": "2025-12-26T05:03:20.554791Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "それまでの猶予",
+      "artist": "乃木坂46",
+      "has_synced": false,
+      "path": "select/pl_01_それまでの猶予_乃木坂46.txt"
+    }
+  ]
+}
